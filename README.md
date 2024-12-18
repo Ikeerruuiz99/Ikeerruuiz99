@@ -12,7 +12,7 @@
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ikeerruuiz99&theme=default" />
-    <img src="https://github.com/Ikeerruuiz99/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikeerruuiz99&theme=default" />
     <img src="https://github.com/Ikeerruuiz99/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
     <img src="https://github.com/Ikeerruuiz99/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
     <a href="https://git.io/streak-stats">
