@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Charis+SIL&duration=4000&pause=500&color=00C8F7&width=435&lines=Hi+there!+I'm+Iker+Ruiz.;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <!--
 **Ikeerruuiz99/Ikeerruuiz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
