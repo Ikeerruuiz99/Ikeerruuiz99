@@ -13,10 +13,10 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ikeerruuiz99&theme=aura_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ikeerruuiz99&theme=aura_dark" />
-    <img src="https://badge.mediaplus.ma/darkblue/ikruiz-g?1337Badge=off&UM6P=off" alt="ikruiz-g's 42 stats" />
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Ikeerruuiz99&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" />
     </a>
+    <img src="https://badge.mediaplus.ma/darkblue/ikruiz-g?1337Badge=off&UM6P=off" alt="ikruiz-g's 42 stats" />
 </div>
 
 <!--
