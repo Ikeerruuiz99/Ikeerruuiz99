@@ -13,8 +13,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ikeerruuiz99&theme=aura_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikeerruuiz99&theme=aura_dark" />
-    <img src="https://github.com/Ikeerruuiz99/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <img src="https://github.com/Ikeerruuiz99/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Ikeerruuiz99&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" />
     </a>
